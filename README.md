@@ -6,4 +6,4 @@
 
 ## WELCOME!
 My name is Ragnar, i am a student at a Norwegian IT school. This is my official account where i upload my projects.<br>
-Scroll<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=12&letterSpacing=small&duration=4000&pause=-0&color=F7F7F7&width=435&lines=.+.+." alt="Typing SVG" /></a>
+Scroll...
